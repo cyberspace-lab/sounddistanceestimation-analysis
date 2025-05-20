@@ -1,0 +1,18 @@
+project:
+  type: website
+  render:
+    - reports/index.qmd
+
+website:
+  title: "Sounds form space"
+  navbar:
+    left:
+      - href: reports/index.qmd
+        text: Home
+  sidebar:
+    contents:
+      - auto: "reports/paths/*"
+format:
+  html:
+    theme: cosmo
+    toc: true
