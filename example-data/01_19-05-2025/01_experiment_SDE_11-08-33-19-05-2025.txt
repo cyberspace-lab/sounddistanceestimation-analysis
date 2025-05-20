@@ -1,0 +1,2977 @@
+***SESSION HEADER***
+{
+  "Participant": "01",
+  "Timestamp": "11-08-33-19-05-2025"
+}
+---SESSION HEADER---
+***TEST HEADER***
+{"settings" :{
+  "firstpartsounds": {
+    "audiosamples": [
+      {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      },
+      {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      },
+      {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    ]
+  },
+  "secondpartsounds": {
+    "audiosamples": [
+      {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      },
+      {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      },
+      {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    ]
+  },
+  "thirdpartsounds": {
+    "audiosamples": [
+      {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      },
+      {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      },
+      {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    ]
+  },
+  "firstaudiorolloffmode": "Logarithmic",
+  "secondaudiorolloffmode": "Linear",
+  "trialcount": 168,
+  "debugmode": false,
+  "selectionareasize": 27.0,
+  "posiblepositionsoffset": 2.0,
+  "posiblepositions": 9,
+  "nofeedbackphase": 15,
+  "feedbackphase": 54,
+  "timeafterfinish": 1.5,
+  "timeafternext": 1.5,
+  "indexes": [
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "cough",
+        "audioclip": {
+          "length": 3.53716564,
+          "samples": 155989,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "bark",
+        "audioclip": {
+          "length": 2.25,
+          "samples": 99225,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "brakes",
+        "audioclip": {
+          "length": 2.0,
+          "samples": 88200,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 1,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 5,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 3,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "carhorn",
+        "audioclip": {
+          "length": 1.21904767,
+          "samples": 53760,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "cikada",
+        "audioclip": {
+          "length": 3.0,
+          "samples": 132300,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 7,
+      "sample": {
+        "audioclipname": "meow",
+        "audioclip": {
+          "length": 2.496145,
+          "samples": 110080,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 6,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 8,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 4,
+      "sample": {
+        "audioclipname": "doors",
+        "audioclip": {
+          "length": 0.75,
+          "samples": 33075,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 2,
+      "sample": {
+        "audioclipname": "glass",
+        "audioclip": {
+          "length": 1.0,
+          "samples": 44100,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    },
+    {
+      "position": 0,
+      "sample": {
+        "audioclipname": "ironimpcat",
+        "audioclip": {
+          "length": 1.5,
+          "samples": 66150,
+          "channels": 2,
+          "frequency": 44100
+        }
+      }
+    }
+  ],
+  "experimentname": "SDE"
+}
+}
+---TEST HEADER---
+Time;Sender;Index;Type;Event
+40113.2172;Experiment;0;Event;Started
+40113.2318;Trial;0;StateChange;Running
+40113.2318;Trial;0;StateChange;Prepared
+40121.5446;Trial;0;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.235727,"y":0.03,"z":0.04152137}}}
+40125.0425;Trial;0;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.235727,"y":0.03,"z":0.04152137},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":0, "trialSound":"auto_brzdy_1","trialPosition":2}}
+40125.0429;Trial;0;StateChange;Finished
+40126.6128;Trial;1;StateChange;Running
+40126.6141;Trial;1;StateChange;Prepared
+40132.8376;Trial;1;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.260252,"y":0.03,"z":0.1053959}}}
+40133.3333;Trial;1;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.260252,"y":0.03,"z":0.1053959},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":1, "trialSound":"coughing","trialPosition":4}}
+40133.3336;Trial;1;StateChange;Finished
+40134.8502;Trial;2;StateChange;Running
+40134.8503;Trial;2;StateChange;Prepared
+40139.5449;Trial;2;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.662233,"y":0.03,"z":0.06264338}}}
+40140.1679;Trial;2;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.662233,"y":0.03,"z":0.06264338},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":2, "trialSound":"pes_normalni_stekani_2","trialPosition":8}}
+40140.1683;Trial;2;StateChange;Finished
+40141.7140;Trial;3;StateChange;Running
+40141.7141;Trial;3;StateChange;Prepared
+40145.3366;Trial;3;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.792816,"y":0.03,"z":0.05569667}}}
+40145.8759;Trial;3;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.792816,"y":0.03,"z":0.05569667},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":3, "trialSound":"auto_brzdy_1","trialPosition":6}}
+40145.8764;Trial;3;StateChange;Finished
+40147.3806;Trial;4;StateChange;Running
+40147.3807;Trial;4;StateChange;Prepared
+40149.7123;Trial;4;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.056642,"y":0.03,"z":0.0653904}}}
+40150.1678;Trial;4;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.056642,"y":0.03,"z":0.0653904},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":4, "trialSound":"auto_brzdy_1","trialPosition":4}}
+40150.1682;Trial;4;StateChange;Finished
+40151.7132;Trial;5;StateChange;Running
+40151.7134;Trial;5;StateChange;Prepared
+40154.5025;Trial;5;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.308236,"y":0.03,"z":0.06881638}}}
+40155.2508;Trial;5;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.308236,"y":0.03,"z":0.06881638},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":5, "trialSound":"coughing","trialPosition":0}}
+40155.2512;Trial;5;StateChange;Finished
+40156.7834;Trial;6;StateChange;Running
+40156.7835;Trial;6;StateChange;Prepared
+40158.9482;Trial;6;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.318739,"y":0.03,"z":0.06337493}}}
+40159.4042;Trial;6;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.318739,"y":0.03,"z":0.06337493},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":6, "trialSound":"pes_normalni_stekani_2","trialPosition":0}}
+40159.4045;Trial;6;StateChange;Finished
+40160.9497;Trial;7;StateChange;Running
+40160.9498;Trial;7;StateChange;Prepared
+40163.2397;Trial;7;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.11167,"y":0.03,"z":0.04117614}}}
+40163.8622;Trial;7;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.11167,"y":0.03,"z":0.04117614},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":7, "trialSound":"coughing","trialPosition":6}}
+40163.8625;Trial;7;StateChange;Finished
+40165.4080;Trial;8;StateChange;Running
+40165.4082;Trial;8;StateChange;Prepared
+40167.4062;Trial;8;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.784101,"y":0.03,"z":0.1355625}}}
+40167.8206;Trial;8;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.784101,"y":0.03,"z":0.1355625},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":8, "trialSound":"pes_normalni_stekani_2","trialPosition":6}}
+40167.8209;Trial;8;StateChange;Finished
+40169.3251;Trial;9;StateChange;Running
+40169.3251;Trial;9;StateChange;Prepared
+40171.3229;Trial;9;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.106252,"y":0.03,"z":0.07791251}}}
+40171.8206;Trial;9;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.106252,"y":0.03,"z":0.07791251},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":9, "trialSound":"auto_brzdy_1","trialPosition":0}}
+40171.8209;Trial;9;StateChange;Finished
+40173.3243;Trial;10;StateChange;Running
+40173.3244;Trial;10;StateChange;Prepared
+40175.1560;Trial;10;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.661041,"y":0.03,"z":0.09245159}}}
+40175.6528;Trial;10;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.661041,"y":0.03,"z":0.09245159},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":10, "trialSound":"auto_brzdy_1","trialPosition":8}}
+40175.6534;Trial;10;StateChange;Finished
+40177.1573;Trial;11;StateChange;Running
+40177.1574;Trial;11;StateChange;Prepared
+40180.0309;Trial;11;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.757713,"y":0.03,"z":0.06878383}}}
+40180.6533;Trial;11;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.757713,"y":0.03,"z":0.06878383},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":11, "trialSound":"coughing","trialPosition":8}}
+40180.6538;Trial;11;StateChange;Finished
+40182.1576;Trial;12;StateChange;Running
+40182.1577;Trial;12;StateChange;Prepared
+40184.7390;Trial;12;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.64572,"y":0.03,"z":0.06112529}}}
+40185.4868;Trial;12;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.64572,"y":0.03,"z":0.06112529},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":12, "trialSound":"pes_normalni_stekani_2","trialPosition":4}}
+40185.4872;Trial;12;StateChange;Finished
+40187.0323;Trial;13;StateChange;Running
+40187.0324;Trial;13;StateChange;Prepared
+40189.1972;Trial;13;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.825354,"y":0.03,"z":0.06019533}}}
+40189.8204;Trial;13;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.825354,"y":0.03,"z":0.06019533},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":13, "trialSound":"coughing","trialPosition":2}}
+40189.8207;Trial;13;StateChange;Finished
+40191.3656;Trial;14;StateChange;Running
+40191.3659;Trial;14;StateChange;Prepared
+40193.6562;Trial;14;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.893806,"y":0.03,"z":0.002784914}}}
+40194.0279;Trial;14;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.893806,"y":0.03,"z":0.002784914},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":14, "trialSound":"pes_normalni_stekani_2","trialPosition":2}}
+40194.0283;Trial;14;StateChange;Finished
+40195.5346;Trial;15;StateChange;Running
+40195.5349;Trial;15;StateChange;Prepared
+40197.2798;Trial;15;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.145442,"y":0.03,"z":0.03503206}}}
+40197.6932;Trial;15;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.145442,"y":0.03,"z":0.03503206},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":15, "trialSound":"coughing","trialPosition":1}}
+40197.6935;Trial;15;StateChange;Finished
+40199.1994;Trial;16;StateChange;Running
+40199.1994;Trial;16;StateChange;Prepared
+40201.5305;Trial;16;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.934616,"y":0.03,"z":0.04932693}}}
+40201.9034;Trial;16;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.934616,"y":0.03,"z":0.04932693},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":16, "trialSound":"coughing","trialPosition":2}}
+40203.4058;Trial;16;StateChange;Finished
+40204.9485;Trial;17;StateChange;Running
+40204.9486;Trial;17;StateChange;Prepared
+40207.7391;Trial;17;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-10.79329,"y":0.03,"z":0.1449512}}}
+40208.2365;Trial;17;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-10.79329,"y":0.03,"z":0.1449512},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":17, "trialSound":"auto_brzdy_1","trialPosition":4}}
+40209.7390;Trial;17;StateChange;Finished
+40211.2407;Trial;18;StateChange;Running
+40211.2408;Trial;18;StateChange;Prepared
+40214.0725;Trial;18;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-8.293793,"y":0.03,"z":0.05685104}}}
+40214.5283;Trial;18;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-8.293793,"y":0.03,"z":0.05685104},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":18, "trialSound":"coughing","trialPosition":7}}
+40216.0593;Trial;18;StateChange;Finished
+40217.5885;Trial;19;StateChange;Running
+40217.5888;Trial;19;StateChange;Prepared
+40221.9896;Trial;19;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-13.12421,"y":0.03,"z":0.05617275}}}
+40222.6398;Trial;19;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-13.12421,"y":0.03,"z":0.05617275},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":19, "trialSound":"auto_brzdy_1","trialPosition":5}}
+40224.1695;Trial;19;StateChange;Finished
+40225.6719;Trial;20;StateChange;Running
+40225.6722;Trial;20;StateChange;Prepared
+40227.6704;Trial;20;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-23.25008,"y":0.03,"z":0.2009276}}}
+40228.2512;Trial;20;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-23.25008,"y":0.03,"z":0.2009276},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":20, "trialSound":"auto_brzdy_1","trialPosition":5}}
+40229.7815;Trial;20;StateChange;Finished
+40231.3264;Trial;21;StateChange;Running
+40231.3265;Trial;21;StateChange;Prepared
+40234.1978;Trial;21;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.716022,"y":0.03,"z":0.1963912}}}
+40234.7788;Trial;21;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.716022,"y":0.03,"z":0.1963912},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":21, "trialSound":"pes_normalni_stekani_2","trialPosition":2}}
+40236.3228;Trial;21;StateChange;Finished
+40237.8250;Trial;22;StateChange;Running
+40237.8251;Trial;22;StateChange;Prepared
+40240.9896;Trial;22;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.367524,"y":0.03,"z":0.05032485}}}
+40241.6121;Trial;22;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.367524,"y":0.03,"z":0.05032485},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":22, "trialSound":"coughing","trialPosition":3}}
+40243.1211;Trial;22;StateChange;Finished
+40244.6437;Trial;23;StateChange;Running
+40244.6438;Trial;23;StateChange;Prepared
+40249.1418;Trial;23;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-8.020718,"y":0.03,"z":0.05150642}}}
+40249.5145;Trial;23;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-8.020718,"y":0.03,"z":0.05150642},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":23, "trialSound":"pes_normalni_stekani_2","trialPosition":6}}
+40251.0171;Trial;23;StateChange;Finished
+40252.5191;Trial;24;StateChange;Running
+40252.5193;Trial;24;StateChange;Prepared
+40256.2256;Trial;24;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-9.078983,"y":0.03,"z":0.02694745}}}
+40256.8480;Trial;24;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-9.078983,"y":0.03,"z":0.02694745},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":24, "trialSound":"pes_normalni_stekani_2","trialPosition":1}}
+40258.3913;Trial;24;StateChange;Finished
+40259.8939;Trial;25;StateChange;Running
+40259.8973;Trial;25;StateChange;Prepared
+40263.0865;Trial;25;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.603989,"y":0.03,"z":0.004869503}}}
+40263.5846;Trial;25;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.603989,"y":0.03,"z":0.004869503},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":25, "trialSound":"coughing","trialPosition":2}}
+40265.1282;Trial;25;StateChange;Finished
+40266.6426;Trial;26;StateChange;Running
+40266.6427;Trial;26;StateChange;Prepared
+40269.9614;Trial;26;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-14.2653,"y":0.03,"z":0.00694456}}}
+40270.5842;Trial;26;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-14.2653,"y":0.03,"z":0.00694456},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":26, "trialSound":"auto_brzdy_1","trialPosition":8}}
+40272.1283;Trial;26;StateChange;Finished
+40273.6715;Trial;27;StateChange;Running
+40273.6716;Trial;27;StateChange;Prepared
+40276.3775;Trial;27;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-9.407484,"y":0.03,"z":0.03620353}}}
+40276.8337;Trial;27;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-9.407484,"y":0.03,"z":0.03620353},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":27, "trialSound":"coughing","trialPosition":4}}
+40278.3362;Trial;27;StateChange;Finished
+40279.8791;Trial;28;StateChange;Running
+40279.8792;Trial;28;StateChange;Prepared
+40282.7936;Trial;28;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.911853,"y":0.03,"z":0.0983212}}}
+40283.1238;Trial;28;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.911853,"y":0.03,"z":0.0983212},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":28, "trialSound":"auto_brzdy_1","trialPosition":0}}
+40284.6278;Trial;28;StateChange;Finished
+40286.1295;Trial;29;StateChange;Running
+40286.1295;Trial;29;StateChange;Prepared
+40288.5447;Trial;29;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.717988,"y":0.03,"z":0.009079701}}}
+40288.8757;Trial;29;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.717988,"y":0.03,"z":0.009079701},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":29, "trialSound":"pes_normalni_stekani_2","trialPosition":5}}
+40290.4192;Trial;29;StateChange;Finished
+40291.9233;Trial;30;StateChange;Running
+40291.9234;Trial;30;StateChange;Prepared
+40294.5024;Trial;30;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-13.03064,"y":0.03,"z":0.1636383}}}
+40294.8755;Trial;30;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-13.03064,"y":0.03,"z":0.1636383},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":30, "trialSound":"pes_normalni_stekani_2","trialPosition":5}}
+40296.4193;Trial;30;StateChange;Finished
+40297.9236;Trial;31;StateChange;Running
+40297.9239;Trial;31;StateChange;Prepared
+40301.0861;Trial;31;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-9.620881,"y":0.03,"z":0.1051037}}}
+40301.5421;Trial;31;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-9.620881,"y":0.03,"z":0.1051037},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":31, "trialSound":"coughing","trialPosition":5}}
+40303.0864;Trial;31;StateChange;Finished
+40304.6286;Trial;32;StateChange;Running
+40304.6286;Trial;32;StateChange;Prepared
+40307.9195;Trial;32;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-16.24223,"y":0.03,"z":0.01418576}}}
+40308.5838;Trial;32;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-16.24223,"y":0.03,"z":0.01418576},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":32, "trialSound":"coughing","trialPosition":6}}
+40310.1273;Trial;32;StateChange;Finished
+40311.6306;Trial;33;StateChange;Running
+40311.6307;Trial;33;StateChange;Prepared
+40314.5856;Trial;33;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-23.65391,"y":0.03,"z":0.2605294}}}
+40315.0418;Trial;33;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-23.65391,"y":0.03,"z":0.2605294},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":33, "trialSound":"auto_brzdy_1","trialPosition":6}}
+40316.5440;Trial;33;StateChange;Finished
+40318.0459;Trial;34;StateChange;Running
+40318.0460;Trial;34;StateChange;Prepared
+40322.6271;Trial;34;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-20.91507,"y":0.03,"z":0.0846293}}}
+40323.1666;Trial;34;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-20.91507,"y":0.03,"z":0.0846293},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":34, "trialSound":"auto_brzdy_1","trialPosition":4}}
+40324.7091;Trial;34;StateChange;Finished
+40326.2115;Trial;35;StateChange;Running
+40326.2116;Trial;35;StateChange;Prepared
+40329.4608;Trial;35;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.569591,"y":0.03,"z":0.04703858}}}
+40330.0002;Trial;35;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.569591,"y":0.03,"z":0.04703858},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":35, "trialSound":"coughing","trialPosition":0}}
+40331.5097;Trial;35;StateChange;Finished
+40333.0187;Trial;36;StateChange;Running
+40333.0188;Trial;36;StateChange;Prepared
+40337.1832;Trial;36;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-8.983707,"y":0.03,"z":0.0236452}}}
+40337.6396;Trial;36;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-8.983707,"y":0.03,"z":0.0236452},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":36, "trialSound":"pes_normalni_stekani_2","trialPosition":3}}
+40339.1832;Trial;36;StateChange;Finished
+40340.6984;Trial;37;StateChange;Running
+40340.7000;Trial;37;StateChange;Prepared
+40343.6971;Trial;37;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.339437,"y":0.03,"z":0.007137729}}}
+40344.1536;Trial;37;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.339437,"y":0.03,"z":0.007137729},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":37, "trialSound":"pes_normalni_stekani_2","trialPosition":0}}
+40345.6975;Trial;37;StateChange;Finished
+40347.2394;Trial;38;StateChange;Running
+40347.2395;Trial;38;StateChange;Prepared
+40350.0723;Trial;38;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.30653,"y":0.03,"z":0.05226562}}}
+40350.5702;Trial;38;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.30653,"y":0.03,"z":0.05226562},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":38, "trialSound":"auto_brzdy_1","trialPosition":2}}
+40352.1133;Trial;38;StateChange;Finished
+40353.6151;Trial;39;StateChange;Running
+40353.6152;Trial;39;StateChange;Prepared
+40360.2799;Trial;39;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-14.64488,"y":0.03,"z":-0.01827287}}}
+40361.0700;Trial;39;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-14.64488,"y":0.03,"z":-0.01827287},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":39, "trialSound":"coughing","trialPosition":6}}
+40362.6152;Trial;39;StateChange;Finished
+40364.1591;Trial;40;StateChange;Running
+40364.1591;Trial;40;StateChange;Prepared
+40367.0310;Trial;40;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.137237,"y":0.03,"z":0.02416596}}}
+40367.3607;Trial;40;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.137237,"y":0.03,"z":0.02416596},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":40, "trialSound":"pes_normalni_stekani_2","trialPosition":0}}
+40368.8800;Trial;40;StateChange;Finished
+40370.4072;Trial;41;StateChange;Running
+40370.4073;Trial;41;StateChange;Prepared
+40373.4475;Trial;41;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.121445,"y":0.03,"z":-0.04727894}}}
+40374.0284;Trial;41;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.121445,"y":0.03,"z":-0.04727894},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":41, "trialSound":"coughing","trialPosition":0}}
+40375.5723;Trial;41;StateChange;Finished
+40377.1153;Trial;42;StateChange;Running
+40377.1154;Trial;42;StateChange;Prepared
+40380.1967;Trial;42;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.28391,"y":0.03,"z":-0.08501375}}}
+40380.7780;Trial;42;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.28391,"y":0.03,"z":-0.08501375},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":42, "trialSound":"auto_brzdy_1","trialPosition":1}}
+40382.2803;Trial;42;StateChange;Finished
+40383.7821;Trial;43;StateChange;Running
+40383.7822;Trial;43;StateChange;Prepared
+40386.2803;Trial;43;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.545954,"y":0.03,"z":0.07931571}}}
+40386.6534;Trial;43;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.545954,"y":0.03,"z":0.07931571},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":43, "trialSound":"pes_normalni_stekani_2","trialPosition":1}}
+40388.1706;Trial;43;StateChange;Finished
+40389.6872;Trial;44;StateChange;Running
+40389.6873;Trial;44;StateChange;Prepared
+40393.1830;Trial;44;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-22.09773,"y":0.03,"z":0.01190114}}}
+40393.4730;Trial;44;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-22.09773,"y":0.03,"z":0.01190114},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":44, "trialSound":"pes_normalni_stekani_2","trialPosition":8}}
+40395.0161;Trial;44;StateChange;Finished
+40396.5182;Trial;45;StateChange;Running
+40396.5182;Trial;45;StateChange;Prepared
+40399.7665;Trial;45;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-26.85295,"y":0.03,"z":-0.1062767}}}
+40400.3480;Trial;45;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-26.85295,"y":0.03,"z":-0.1062767},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":45, "trialSound":"auto_brzdy_1","trialPosition":7}}
+40401.8507;Trial;45;StateChange;Finished
+40403.3940;Trial;46;StateChange;Running
+40403.3941;Trial;46;StateChange;Prepared
+40405.6836;Trial;46;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-18.2294,"y":0.03,"z":0.2323181}}}
+40406.0565;Trial;46;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-18.2294,"y":0.03,"z":0.2323181},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":46, "trialSound":"pes_normalni_stekani_2","trialPosition":3}}
+40407.6001;Trial;46;StateChange;Finished
+40409.1433;Trial;47;StateChange;Running
+40409.1434;Trial;47;StateChange;Prepared
+40411.9762;Trial;47;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-16.89981,"y":0.03,"z":0.04197062}}}
+40412.3897;Trial;47;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-16.89981,"y":0.03,"z":0.04197062},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":47, "trialSound":"auto_brzdy_1","trialPosition":6}}
+40413.8918;Trial;47;StateChange;Finished
+40415.4350;Trial;48;StateChange;Running
+40415.4350;Trial;48;StateChange;Prepared
+40419.8087;Trial;48;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-16.56894,"y":0.03,"z":-0.03623458}}}
+40420.4730;Trial;48;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-16.56894,"y":0.03,"z":-0.03623458},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":48, "trialSound":"auto_brzdy_1","trialPosition":2}}
+40422.0163;Trial;48;StateChange;Finished
+40423.5185;Trial;49;StateChange;Running
+40423.5185;Trial;49;StateChange;Prepared
+40428.3920;Trial;49;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-15.36964,"y":0.03,"z":-0.05763501}}}
+40428.7646;Trial;49;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-15.36964,"y":0.03,"z":-0.05763501},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":49, "trialSound":"coughing","trialPosition":4}}
+40430.2725;Trial;49;StateChange;Finished
+40431.8096;Trial;50;StateChange;Running
+40431.8099;Trial;50;StateChange;Prepared
+40436.0580;Trial;50;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-19.08344,"y":0.03,"z":0.01457925}}}
+40436.4311;Trial;50;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-19.08344,"y":0.03,"z":0.01457925},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":50, "trialSound":"coughing","trialPosition":7}}
+40437.9749;Trial;50;StateChange;Finished
+40439.4764;Trial;51;StateChange;Running
+40439.4765;Trial;51;StateChange;Prepared
+40442.2249;Trial;51;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-8.262936,"y":0.03,"z":0.1305192}}}
+40442.5148;Trial;51;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-8.262936,"y":0.03,"z":0.1305192},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":51, "trialSound":"auto_brzdy_1","trialPosition":1}}
+40444.0171;Trial;51;StateChange;Finished
+40445.5599;Trial;52;StateChange;Running
+40445.5600;Trial;52;StateChange;Prepared
+40447.6413;Trial;52;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.72321,"y":0.03,"z":-0.09387065}}}
+40448.1808;Trial;52;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.72321,"y":0.03,"z":-0.09387065},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":52, "trialSound":"auto_brzdy_1","trialPosition":7}}
+40449.7246;Trial;52;StateChange;Finished
+40451.2288;Trial;53;StateChange;Running
+40451.2289;Trial;53;StateChange;Prepared
+40453.6394;Trial;53;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-15.91981,"y":0.03,"z":0.1229166}}}
+40453.9308;Trial;53;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-15.91981,"y":0.03,"z":0.1229166},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":53, "trialSound":"pes_normalni_stekani_2","trialPosition":6}}
+40455.4335;Trial;53;StateChange;Finished
+40456.9353;Trial;54;StateChange;Running
+40456.9354;Trial;54;StateChange;Prepared
+40459.0586;Trial;54;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.07378,"y":0.03,"z":0.04678736}}}
+40459.2646;Trial;54;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.07378,"y":0.03,"z":0.04678736},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":54, "trialSound":"coughing","trialPosition":3}}
+40460.8089;Trial;54;StateChange;Finished
+40462.3517;Trial;55;StateChange;Running
+40462.3520;Trial;55;StateChange;Prepared
+40465.6836;Trial;55;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-14.96665,"y":0.03,"z":-0.05989322}}}
+40466.0980;Trial;55;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-14.96665,"y":0.03,"z":-0.05989322},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":55, "trialSound":"pes_normalni_stekani_2","trialPosition":7}}
+40467.6414;Trial;55;StateChange;Finished
+40469.1434;Trial;56;StateChange;Running
+40469.1435;Trial;56;StateChange;Prepared
+40474.5162;Trial;56;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-15.12154,"y":0.03,"z":-0.07593448}}}
+40474.9332;Trial;56;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-15.12154,"y":0.03,"z":-0.07593448},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":56, "trialSound":"coughing","trialPosition":5}}
+40476.4766;Trial;56;StateChange;Finished
+40478.0176;Trial;57;StateChange;Running
+40478.0177;Trial;57;StateChange;Prepared
+40482.7665;Trial;57;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-14.78292,"y":0.03,"z":-0.09542314}}}
+40483.3477;Trial;57;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-14.78292,"y":0.03,"z":-0.09542314},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":57, "trialSound":"pes_normalni_stekani_2","trialPosition":4}}
+40484.8497;Trial;57;StateChange;Finished
+40486.3514;Trial;58;StateChange;Running
+40486.3515;Trial;58;StateChange;Prepared
+40489.5169;Trial;58;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-18.33492,"y":0.03,"z":0.06740689}}}
+40490.0978;Trial;58;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-18.33492,"y":0.03,"z":0.06740689},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":58, "trialSound":"pes_normalni_stekani_2","trialPosition":7}}
+40491.6416;Trial;58;StateChange;Finished
+40493.1434;Trial;59;StateChange;Running
+40493.1435;Trial;59;StateChange;Prepared
+40496.8915;Trial;59;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-20.16953,"y":0.03,"z":-0.1209195}}}
+40497.5975;Trial;59;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-20.16953,"y":0.03,"z":-0.1209195},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":59, "trialSound":"auto_brzdy_1","trialPosition":8}}
+40499.1412;Trial;59;StateChange;Finished
+40500.6428;Trial;60;StateChange;Running
+40500.6429;Trial;60;StateChange;Prepared
+40503.8089;Trial;60;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.770527,"y":0.03,"z":0.008049015}}}
+40504.3476;Trial;60;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.770527,"y":0.03,"z":0.008049015},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":60, "trialSound":"pes_normalni_stekani_2","trialPosition":2}}
+40505.8504;Trial;60;StateChange;Finished
+40507.3930;Trial;61;StateChange;Running
+40507.3931;Trial;61;StateChange;Prepared
+40511.0585;Trial;61;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.513183,"y":0.03,"z":0.02844724}}}
+40511.5153;Trial;61;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.513183,"y":0.03,"z":0.02844724},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":61, "trialSound":"coughing","trialPosition":1}}
+40513.0584;Trial;61;StateChange;Finished
+40514.5599;Trial;62;StateChange;Running
+40514.5599;Trial;62;StateChange;Prepared
+40516.9734;Trial;62;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.207842,"y":0.03,"z":0.04995535}}}
+40518.8485;Trial;62;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.207842,"y":0.03,"z":0.04995535},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":62, "trialSound":"auto_brzdy_1","trialPosition":0}}
+40520.3917;Trial;62;StateChange;Finished
+40521.9346;Trial;63;StateChange;Running
+40521.9347;Trial;63;StateChange;Prepared
+40525.5994;Trial;63;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.479057,"y":0.03,"z":0.001750195}}}
+40526.5981;Trial;63;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.479057,"y":0.03,"z":0.001750195},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":63, "trialSound":"pes_normalni_stekani_2","trialPosition":4}}
+40528.1414;Trial;63;StateChange;Finished
+40529.6429;Trial;64;StateChange;Running
+40529.6431;Trial;64;StateChange;Prepared
+40532.6407;Trial;64;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-13.66708,"y":0.03,"z":-0.02798908}}}
+40533.3057;Trial;64;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-13.66708,"y":0.03,"z":-0.02798908},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":64, "trialSound":"auto_brzdy_1","trialPosition":3}}
+40534.8493;Trial;64;StateChange;Finished
+40536.3511;Trial;65;StateChange;Running
+40536.3512;Trial;65;StateChange;Prepared
+40541.0582;Trial;65;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-16.33679,"y":0.03,"z":0.03993518}}}
+40541.8065;Trial;65;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-16.33679,"y":0.03,"z":0.03993518},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":65, "trialSound":"coughing","trialPosition":8}}
+40543.3088;Trial;65;StateChange;Finished
+40544.8509;Trial;66;StateChange;Running
+40544.8510;Trial;66;StateChange;Prepared
+40547.8081;Trial;66;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-19.72345,"y":0.03,"z":0.0910795}}}
+40548.4305;Trial;66;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-19.72345,"y":0.03,"z":0.0910795},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":66, "trialSound":"coughing","trialPosition":8}}
+40549.9328;Trial;66;StateChange;Finished
+40551.4347;Trial;67;StateChange;Running
+40551.4348;Trial;67;StateChange;Prepared
+40553.7245;Trial;67;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-25.96854,"y":0.03,"z":-0.1355069}}}
+40554.0975;Trial;67;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-25.96854,"y":0.03,"z":-0.1355069},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":67, "trialSound":"pes_normalni_stekani_2","trialPosition":8}}
+40555.5997;Trial;67;StateChange;Finished
+40557.1031;Trial;68;StateChange;Running
+40557.1034;Trial;68;StateChange;Prepared
+40559.3906;Trial;68;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-19.03846,"y":0.03,"z":0.01489447}}}
+40560.0137;Trial;68;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-19.03846,"y":0.03,"z":0.01489447},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":68, "trialSound":"auto_brzdy_1","trialPosition":3}}
+40561.5163;Trial;68;StateChange;Finished
+40563.0242;Trial;69;StateChange;Running
+40563.0242;Trial;69;StateChange;Prepared
+40566.6825;Trial;69;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.736255,"y":0.03,"z":-0.0133908}}}
+40567.1808;Trial;69;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.736255,"y":0.03,"z":-0.0133908},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":69, "trialSound":"rozbiti_skla_2","trialPosition":2}}
+40568.6859;Trial;69;StateChange;Finished
+40570.1988;Trial;70;StateChange;Running
+40570.1989;Trial;70;StateChange;Prepared
+40573.8643;Trial;70;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.060157,"y":0.03,"z":-0.01563465}}}
+40574.4446;Trial;70;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.060157,"y":0.03,"z":-0.01563465},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":70, "trialSound":"rozbiti_skla_2","trialPosition":4}}
+40574.4450;Trial;70;StateChange;Finished
+40575.9485;Trial;71;StateChange;Running
+40575.9485;Trial;71;StateChange;Prepared
+40578.4889;Trial;71;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.328354,"y":0.03,"z":0.05977417}}}
+40578.9867;Trial;71;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.328354,"y":0.03,"z":0.05977417},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":71, "trialSound":"rozbiti_skla_2","trialPosition":0}}
+40578.9871;Trial;71;StateChange;Finished
+40580.5391;Trial;72;StateChange;Running
+40580.5392;Trial;72;StateChange;Prepared
+40583.2802;Trial;72;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.653783,"y":0.03,"z":-0.004551209}}}
+40583.8201;Trial;72;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.653783,"y":0.03,"z":-0.004551209},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":72, "trialSound":"prasknuti_dverma_2","trialPosition":0}}
+40583.8203;Trial;72;StateChange;Finished
+40585.3326;Trial;73;StateChange;Running
+40585.3326;Trial;73;StateChange;Prepared
+40588.2802;Trial;73;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.917964,"y":0.03,"z":0.01802424}}}
+40588.6952;Trial;73;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.917964,"y":0.03,"z":0.01802424},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":73, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":8}}
+40588.6956;Trial;73;StateChange;Finished
+40590.2407;Trial;74;StateChange;Running
+40590.2408;Trial;74;StateChange;Prepared
+40593.6971;Trial;74;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-8.686016,"y":0.03,"z":0.008072965}}}
+40594.2369;Trial;74;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-8.686016,"y":0.03,"z":0.008072965},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":74, "trialSound":"prasknuti_dverma_2","trialPosition":6}}
+40594.2372;Trial;74;StateChange;Finished
+40595.7409;Trial;75;StateChange;Running
+40595.7410;Trial;75;StateChange;Prepared
+40598.3636;Trial;75;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.004864,"y":0.03,"z":0.1050547}}}
+40598.7789;Trial;75;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.004864,"y":0.03,"z":0.1050547},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":75, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":2}}
+40598.7792;Trial;75;StateChange;Finished
+40600.3240;Trial;76;StateChange;Running
+40600.3241;Trial;76;StateChange;Prepared
+40603.4058;Trial;76;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-20.80941,"y":0.03,"z":-0.003062893}}}
+40603.9867;Trial;76;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-20.80941,"y":0.03,"z":-0.003062893},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":76, "trialSound":"rozbiti_skla_2","trialPosition":8}}
+40603.9870;Trial;76;StateChange;Finished
+40605.4906;Trial;77;StateChange;Running
+40605.4907;Trial;77;StateChange;Prepared
+40608.7804;Trial;77;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.53264,"y":0.03,"z":0.005367937}}}
+40609.1952;Trial;77;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.53264,"y":0.03,"z":0.005367937},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":77, "trialSound":"prasknuti_dverma_2","trialPosition":8}}
+40609.1955;Trial;77;StateChange;Finished
+40610.6988;Trial;78;StateChange;Running
+40610.6989;Trial;78;StateChange;Prepared
+40614.7387;Trial;78;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-23.39232,"y":0.03,"z":-0.2892232}}}
+40615.3619;Trial;78;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-23.39232,"y":0.03,"z":-0.2892232},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":78, "trialSound":"rozbiti_skla_2","trialPosition":6}}
+40615.3622;Trial;78;StateChange;Finished
+40616.8654;Trial;79;StateChange;Running
+40616.8655;Trial;79;StateChange;Prepared
+40620.5308;Trial;79;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.346605,"y":0.03,"z":-0.0415541}}}
+40621.2363;Trial;79;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.346605,"y":0.03,"z":-0.0415541},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":79, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":4}}
+40621.2366;Trial;79;StateChange;Finished
+40622.7399;Trial;80;StateChange;Running
+40622.7400;Trial;80;StateChange;Prepared
+40625.3636;Trial;80;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.268594,"y":0.03,"z":0.03175307}}}
+40625.9864;Trial;80;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.268594,"y":0.03,"z":0.03175307},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":80, "trialSound":"prasknuti_dverma_2","trialPosition":2}}
+40625.9867;Trial;80;StateChange;Finished
+40627.4904;Trial;81;StateChange;Running
+40627.4905;Trial;81;StateChange;Prepared
+40630.4889;Trial;81;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.419616,"y":0.03,"z":0.02685645}}}
+40630.9034;Trial;81;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.419616,"y":0.03,"z":0.02685645},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":81, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":0}}
+40630.9037;Trial;81;StateChange;Finished
+40632.4102;Trial;82;StateChange;Running
+40632.4102;Trial;82;StateChange;Prepared
+40635.1558;Trial;82;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-9.912611,"y":0.03,"z":0.007431571}}}
+40635.9450;Trial;82;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-9.912611,"y":0.03,"z":0.007431571},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":82, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":6}}
+40635.9454;Trial;82;StateChange;Finished
+40637.4490;Trial;83;StateChange;Running
+40637.4490;Trial;83;StateChange;Prepared
+40642.1971;Trial;83;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.57887,"y":0.03,"z":-0.002383236}}}
+40642.6539;Trial;83;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.57887,"y":0.03,"z":-0.002383236},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":83, "trialSound":"prasknuti_dverma_2","trialPosition":4}}
+40642.6542;Trial;83;StateChange;Finished
+41262.9949;Trial;84;StateChange;Running
+41262.9952;Trial;84;StateChange;Prepared
+41265.4398;Trial;84;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.504316,"y":0.03,"z":-0.04503543}}}
+41265.8960;Trial;84;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.504316,"y":0.03,"z":-0.04503543},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":84, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":2}}
+41265.8963;Trial;84;StateChange;Finished
+41267.4400;Trial;85;StateChange;Running
+41267.4401;Trial;85;StateChange;Prepared
+41269.7312;Trial;85;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.596411,"y":0.03,"z":-0.02041632}}}
+41270.1453;Trial;85;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.596411,"y":0.03,"z":-0.02041632},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":85, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":0}}
+41270.1457;Trial;85;StateChange;Finished
+41271.6660;Trial;86;StateChange;Running
+41271.6661;Trial;86;StateChange;Prepared
+41274.5648;Trial;86;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.957823,"y":0.03,"z":-0.005580613}}}
+41274.9794;Trial;86;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.957823,"y":0.03,"z":-0.005580613},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":86, "trialSound":"cikada_1","trialPosition":0}}
+41274.9798;Trial;86;StateChange;Finished
+41276.4832;Trial;87;StateChange;Running
+41276.4865;Trial;87;StateChange;Prepared
+41279.3149;Trial;87;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.915257,"y":0.03,"z":0.00382538}}}
+41279.6878;Trial;87;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.915257,"y":0.03,"z":0.00382538},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":87, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":6}}
+41279.6882;Trial;87;StateChange;Finished
+41281.2402;Trial;88;StateChange;Running
+41281.2403;Trial;88;StateChange;Prepared
+41288.1900;Trial;88;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.466172,"y":0.03,"z":0.03735948}}}
+41289.0197;Trial;88;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.466172,"y":0.03,"z":0.03735948},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":88, "trialSound":"auto_klakson_1","trialPosition":4}}
+41289.0200;Trial;88;StateChange;Finished
+41290.5242;Trial;89;StateChange;Running
+41290.5243;Trial;89;StateChange;Prepared
+41293.8145;Trial;89;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-9.513306,"y":0.03,"z":0.00653233}}}
+41294.3127;Trial;89;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-9.513306,"y":0.03,"z":0.00653233},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":89, "trialSound":"auto_klakson_1","trialPosition":8}}
+41294.3131;Trial;89;StateChange;Finished
+41295.8577;Trial;90;StateChange;Running
+41295.8579;Trial;90;StateChange;Prepared
+41298.8142;Trial;90;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-10.94864,"y":0.03,"z":-0.0202145}}}
+41299.3126;Trial;90;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-10.94864,"y":0.03,"z":-0.0202145},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":90, "trialSound":"cikada_1","trialPosition":8}}
+41299.3129;Trial;90;StateChange;Finished
+41300.8165;Trial;91;StateChange;Running
+41300.8166;Trial;91;StateChange;Prepared
+41302.8148;Trial;91;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.334714,"y":0.03,"z":0.05589291}}}
+41303.1463;Trial;91;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.334714,"y":0.03,"z":0.05589291},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":91, "trialSound":"cikada_1","trialPosition":4}}
+41303.1466;Trial;91;StateChange;Finished
+41304.6910;Trial;92;StateChange;Running
+41304.6911;Trial;92;StateChange;Prepared
+41306.7315;Trial;92;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.984365,"y":0.03,"z":0.03404408}}}
+41307.0221;Trial;92;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.984365,"y":0.03,"z":0.03404408},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":92, "trialSound":"cikada_1","trialPosition":2}}
+41307.0224;Trial;92;StateChange;Finished
+41308.5659;Trial;93;StateChange;Running
+41308.5660;Trial;93;StateChange;Prepared
+41310.9395;Trial;93;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-8.866121,"y":0.03,"z":-0.1213033}}}
+41311.3537;Trial;93;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-8.866121,"y":0.03,"z":-0.1213033},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":93, "trialSound":"cikada_1","trialPosition":6}}
+41311.3540;Trial;93;StateChange;Finished
+41312.8578;Trial;94;StateChange;Running
+41312.8579;Trial;94;StateChange;Prepared
+41314.8166;Trial;94;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.818247,"y":0.03,"z":0.01297449}}}
+41315.1872;Trial;94;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.818247,"y":0.03,"z":0.01297449},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":94, "trialSound":"auto_klakson_1","trialPosition":0}}
+41315.1875;Trial;94;StateChange;Finished
+41316.6913;Trial;95;StateChange;Running
+41316.6914;Trial;95;StateChange;Prepared
+41318.3564;Trial;95;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.912478,"y":0.03,"z":0.1199094}}}
+41318.5215;Trial;95;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.912478,"y":0.03,"z":0.1199094},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":95, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":4}}
+41318.5218;Trial;95;StateChange;Finished
+41320.0671;Trial;96;StateChange;Running
+41320.0672;Trial;96;StateChange;Prepared
+41323.5647;Trial;96;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-10.73192,"y":0.03,"z":-0.0005384631}}}
+41324.0625;Trial;96;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-10.73192,"y":0.03,"z":-0.0005384631},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":96, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":8}}
+41324.0629;Trial;96;StateChange;Finished
+41325.6073;Trial;97;StateChange;Running
+41325.6074;Trial;97;StateChange;Prepared
+41327.9815;Trial;97;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.067596,"y":0.03,"z":0.01847579}}}
+41328.4376;Trial;97;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.067596,"y":0.03,"z":0.01847579},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":97, "trialSound":"auto_klakson_1","trialPosition":2}}
+41328.4379;Trial;97;StateChange;Finished
+41329.9825;Trial;98;StateChange;Running
+41329.9826;Trial;98;StateChange;Prepared
+41332.0220;Trial;98;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.482352,"y":0.03,"z":0.005861796}}}
+41332.6856;Trial;98;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.482352,"y":0.03,"z":0.005861796},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":98, "trialSound":"auto_klakson_1","trialPosition":6}}
+41332.6860;Trial;98;StateChange;Finished
+41334.1910;Trial;99;StateChange;Running
+41334.1911;Trial;99;StateChange;Prepared
+41337.6059;Trial;99;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.460032,"y":0.03,"z":0.06178389}}}
+41337.9375;Trial;99;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.460032,"y":0.03,"z":0.06178389},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":99, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":2}}
+41337.9378;Trial;99;StateChange;Finished
+41339.4413;Trial;100;StateChange;Running
+41339.4416;Trial;100;StateChange;Prepared
+41341.3977;Trial;100;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.926285,"y":0.03,"z":0.0009817384}}}
+41341.8541;Trial;100;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.926285,"y":0.03,"z":0.0009817384},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":100, "trialSound":"auto_klakson_1","trialPosition":1}}
+41343.3564;Trial;100;StateChange;Finished
+41344.8994;Trial;101;StateChange;Running
+41344.8995;Trial;101;StateChange;Prepared
+41347.3977;Trial;101;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.579721,"y":0.03,"z":-0.01121084}}}
+41347.7705;Trial;101;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.579721,"y":0.03,"z":-0.01121084},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":101, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":7}}
+41349.2731;Trial;101;StateChange;Finished
+41350.7750;Trial;102;StateChange;Running
+41350.7750;Trial;102;StateChange;Prepared
+41353.4391;Trial;102;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.971514,"y":0.03,"z":0.00895587}}}
+41353.6864;Trial;102;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.971514,"y":0.03,"z":0.00895587},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":102, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":0}}
+41355.1897;Trial;102;StateChange;Finished
+41356.6910;Trial;103;StateChange;Running
+41356.6911;Trial;103;StateChange;Prepared
+41359.3564;Trial;103;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.339833,"y":0.03,"z":-0.0267919}}}
+41359.6873;Trial;103;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.339833,"y":0.03,"z":-0.0267919},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":103, "trialSound":"auto_klakson_1","trialPosition":4}}
+41361.1896;Trial;103;StateChange;Finished
+41362.6912;Trial;104;StateChange;Running
+41362.6913;Trial;104;StateChange;Prepared
+41366.0233;Trial;104;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.924772,"y":0.03,"z":0.02346187}}}
+41366.6460;Trial;104;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.924772,"y":0.03,"z":0.02346187},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":104, "trialSound":"cikada_1","trialPosition":5}}
+41368.1896;Trial;104;StateChange;Finished
+41369.7327;Trial;105;StateChange;Running
+41369.7328;Trial;105;StateChange;Prepared
+41371.7314;Trial;105;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.924812,"y":0.03,"z":0.02824355}}}
+41372.3960;Trial;105;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.924812,"y":0.03,"z":0.02824355},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":105, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":0}}
+41373.9393;Trial;105;StateChange;Finished
+41375.4823;Trial;106;StateChange;Running
+41375.4824;Trial;106;StateChange;Prepared
+41379.6061;Trial;106;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-9.112387,"y":0.03,"z":0.09220468}}}
+41380.1874;Trial;106;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-9.112387,"y":0.03,"z":0.09220468},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":106, "trialSound":"cikada_1","trialPosition":5}}
+41381.7314;Trial;106;StateChange;Finished
+41383.2328;Trial;107;StateChange;Running
+41383.2328;Trial;107;StateChange;Prepared
+41385.7728;Trial;107;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.40501,"y":0.03,"z":-0.04136736}}}
+41386.0625;Trial;107;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.40501,"y":0.03,"z":-0.04136736},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":107, "trialSound":"cikada_1","trialPosition":6}}
+41387.5647;Trial;107;StateChange;Finished
+41389.0666;Trial;108;StateChange;Running
+41389.0667;Trial;108;StateChange;Prepared
+41391.3561;Trial;108;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.497168,"y":0.03,"z":-0.008534006}}}
+41391.5205;Trial;108;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.497168,"y":0.03,"z":-0.008534006},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":108, "trialSound":"cikada_1","trialPosition":0}}
+41393.0232;Trial;108;StateChange;Finished
+41394.5382;Trial;109;StateChange;Running
+41394.5382;Trial;109;StateChange;Prepared
+41397.7034;Trial;109;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-13.3492,"y":0.03,"z":0.08656873}}}
+41397.9092;Trial;109;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-13.3492,"y":0.03,"z":0.08656873},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":109, "trialSound":"auto_klakson_1","trialPosition":7}}
+41399.4119;Trial;109;StateChange;Finished
+41400.9139;Trial;110;StateChange;Running
+41400.9139;Trial;110;StateChange;Prepared
+41402.7451;Trial;110;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.492234,"y":0.03,"z":0.009109376}}}
+41402.9100;Trial;110;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.492234,"y":0.03,"z":0.009109376},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":110, "trialSound":"cikada_1","trialPosition":1}}
+41404.4538;Trial;110;StateChange;Finished
+41405.9551;Trial;111;StateChange;Running
+41405.9552;Trial;111;StateChange;Prepared
+41408.2873;Trial;111;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.137353,"y":0.03,"z":-0.0009625657}}}
+41408.6602;Trial;111;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.137353,"y":0.03,"z":-0.0009625657},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":111, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":5}}
+41410.2035;Trial;111;StateChange;Finished
+41411.7049;Trial;112;StateChange;Running
+41411.7050;Trial;112;StateChange;Prepared
+41414.2867;Trial;112;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.225696,"y":0.03,"z":-0.01865047}}}
+41414.8261;Trial;112;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.225696,"y":0.03,"z":-0.01865047},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":112, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":1}}
+41416.3288;Trial;112;StateChange;Finished
+41417.8686;Trial;113;StateChange;Running
+41417.8687;Trial;113;StateChange;Prepared
+41420.1621;Trial;113;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.199252,"y":0.03,"z":-0.05293419}}}
+41420.3683;Trial;113;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.199252,"y":0.03,"z":-0.05293419},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":113, "trialSound":"auto_klakson_1","trialPosition":1}}
+41421.8712;Trial;113;StateChange;Finished
+41423.3994;Trial;114;StateChange;Running
+41423.3995;Trial;114;StateChange;Prepared
+41425.5229;Trial;114;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-8.888912,"y":0.03,"z":-0.06372878}}}
+41425.8125;Trial;114;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-8.888912,"y":0.03,"z":-0.06372878},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":114, "trialSound":"auto_klakson_1","trialPosition":5}}
+41427.3584;Trial;114;StateChange;Finished
+41428.9007;Trial;115;StateChange;Running
+41428.9009;Trial;115;StateChange;Prepared
+41431.7736;Trial;115;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.218685,"y":0.03,"z":0.03175419}}}
+41432.1040;Trial;115;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.218685,"y":0.03,"z":0.03175419},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":115, "trialSound":"auto_klakson_1","trialPosition":0}}
+41433.6479;Trial;115;StateChange;Finished
+41435.1502;Trial;116;StateChange;Running
+41435.1503;Trial;116;StateChange;Prepared
+41437.6067;Trial;116;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-18.94297,"y":0.03,"z":0.02446984}}}
+41438.0207;Trial;116;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-18.94297,"y":0.03,"z":0.02446984},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":116, "trialSound":"auto_klakson_1","trialPosition":8}}
+41439.5230;Trial;116;StateChange;Finished
+41441.0666;Trial;117;StateChange;Running
+41441.0667;Trial;117;StateChange;Prepared
+41444.5649;Trial;117;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.650032,"y":0.03,"z":0.01090228}}}
+41444.8129;Trial;117;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.650032,"y":0.03,"z":0.01090228},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":117, "trialSound":"cikada_1","trialPosition":1}}
+41446.3571;Trial;117;StateChange;Finished
+41447.8996;Trial;118;StateChange;Running
+41447.8996;Trial;118;StateChange;Prepared
+41450.8150;Trial;118;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.10956,"y":0.03,"z":0.0947421}}}
+41451.1873;Trial;118;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.10956,"y":0.03,"z":0.0947421},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":118, "trialSound":"auto_klakson_1","trialPosition":4}}
+41452.6903;Trial;118;StateChange;Finished
+41454.2189;Trial;119;StateChange;Running
+41454.2191;Trial;119;StateChange;Prepared
+41457.7587;Trial;119;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.012396,"y":0.03,"z":-0.02553027}}}
+41458.0485;Trial;119;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.012396,"y":0.03,"z":-0.02553027},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":119, "trialSound":"cikada_1","trialPosition":2}}
+41459.5918;Trial;119;StateChange;Finished
+41461.0943;Trial;120;StateChange;Running
+41461.0943;Trial;120;StateChange;Prepared
+41464.9260;Trial;120;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.586143,"y":0.03,"z":0.09209377}}}
+41465.2158;Trial;120;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.586143,"y":0.03,"z":0.09209377},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":120, "trialSound":"auto_klakson_1","trialPosition":2}}
+41466.7587;Trial;120;StateChange;Finished
+41468.2604;Trial;121;StateChange;Running
+41468.2605;Trial;121;StateChange;Prepared
+41471.0928;Trial;121;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-14.10732,"y":0.03,"z":-0.1079083}}}
+41471.6326;Trial;121;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-14.10732,"y":0.03,"z":-0.1079083},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":121, "trialSound":"auto_klakson_1","trialPosition":6}}
+41473.1757;Trial;121;StateChange;Finished
+41474.7189;Trial;122;StateChange;Running
+41474.7189;Trial;122;StateChange;Prepared
+41479.6758;Trial;122;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-12.4455,"y":0.03,"z":-0.01676611}}}
+41480.2990;Trial;122;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-12.4455,"y":0.03,"z":-0.01676611},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":122, "trialSound":"cikada_1","trialPosition":4}}
+41481.8414;Trial;122;StateChange;Finished
+41483.3438;Trial;123;StateChange;Running
+41483.3439;Trial;123;StateChange;Prepared
+41485.9672;Trial;123;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-24.17198,"y":0.03,"z":0.1284641}}}
+41486.5489;Trial;123;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-24.17198,"y":0.03,"z":0.1284641},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":123, "trialSound":"cikada_1","trialPosition":8}}
+41488.0510;Trial;123;StateChange;Finished
+41489.5942;Trial;124;StateChange;Running
+41489.5943;Trial;124;StateChange;Prepared
+41493.0508;Trial;124;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.73427,"y":0.03,"z":0.01066937}}}
+41493.3403;Trial;124;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.73427,"y":0.03,"z":0.01066937},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":124, "trialSound":"auto_klakson_1","trialPosition":7}}
+41494.8428;Trial;124;StateChange;Finished
+41496.3855;Trial;125;StateChange;Running
+41496.3856;Trial;125;StateChange;Prepared
+41499.1762;Trial;125;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-18.21378,"y":0.03,"z":-0.02996387}}}
+41499.6325;Trial;125;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-18.21378,"y":0.03,"z":-0.02996387},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":125, "trialSound":"cikada_1","trialPosition":7}}
+41501.1494;Trial;125;StateChange;Finished
+41502.6766;Trial;126;StateChange;Running
+41502.6766;Trial;126;StateChange;Prepared
+41504.8842;Trial;126;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-7.004617,"y":0.03,"z":0.05485945}}}
+41505.0908;Trial;126;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-7.004617,"y":0.03,"z":0.05485945},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":126, "trialSound":"auto_klakson_1","trialPosition":3}}
+41506.5931;Trial;126;StateChange;Finished
+41508.1360;Trial;127;StateChange;Running
+41508.1392;Trial;127;StateChange;Prepared
+41510.7594;Trial;127;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.526665,"y":0.03,"z":0.04170056}}}
+41511.0487;Trial;127;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.526665,"y":0.03,"z":0.04170056},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":127, "trialSound":"cikada_1","trialPosition":0}}
+41512.5512;Trial;127;StateChange;Finished
+41514.0940;Trial;128;StateChange;Running
+41514.0941;Trial;128;StateChange;Prepared
+41515.8841;Trial;128;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.05596,"y":0.03,"z":0.06837244}}}
+41516.0485;Trial;128;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.05596,"y":0.03,"z":0.06837244},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":128, "trialSound":"cikada_1","trialPosition":7}}
+41517.5508;Trial;128;StateChange;Finished
+41519.0524;Trial;129;StateChange;Running
+41519.0525;Trial;129;StateChange;Prepared
+41521.0923;Trial;129;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-16.37022,"y":0.03,"z":0.1350139}}}
+41521.4253;Trial;129;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-16.37022,"y":0.03,"z":0.1350139},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":129, "trialSound":"auto_klakson_1","trialPosition":6}}
+41522.9696;Trial;129;StateChange;Finished
+41524.4711;Trial;130;StateChange;Running
+41524.4712;Trial;130;StateChange;Prepared
+41526.6348;Trial;130;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.467566,"y":0.03,"z":-0.04290909}}}
+41526.9650;Trial;130;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.467566,"y":0.03,"z":-0.04290909},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":130, "trialSound":"cikada_1","trialPosition":4}}
+41528.4672;Trial;130;StateChange;Finished
+41529.9688;Trial;131;StateChange;Running
+41529.9689;Trial;131;StateChange;Prepared
+41531.7179;Trial;131;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.652586,"y":0.03,"z":0.0235522}}}
+41531.8821;Trial;131;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.652586,"y":0.03,"z":0.0235522},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":131, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":3}}
+41533.3844;Trial;131;StateChange;Finished
+41534.9271;Trial;132;StateChange;Running
+41534.9272;Trial;132;StateChange;Prepared
+41540.4258;Trial;132;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-16.66261,"y":0.03,"z":0.06438881}}}
+41540.9235;Trial;132;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-16.66261,"y":0.03,"z":0.06438881},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":132, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":4}}
+41542.4258;Trial;132;StateChange;Finished
+41543.9681;Trial;133;StateChange;Running
+41543.9682;Trial;133;StateChange;Prepared
+41546.3836;Trial;133;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-8.921799,"y":0.03,"z":0.08379236}}}
+41546.9650;Trial;133;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-8.921799,"y":0.03,"z":0.08379236},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":133, "trialSound":"auto_klakson_1","trialPosition":5}}
+41548.4675;Trial;133;StateChange;Finished
+41550.0101;Trial;134;StateChange;Running
+41550.0102;Trial;134;StateChange;Prepared
+41553.4689;Trial;134;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-24.77594,"y":0.03,"z":0.07368299}}}
+41554.3400;Trial;134;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-24.77594,"y":0.03,"z":0.07368299},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":134, "trialSound":"cikada_1","trialPosition":8}}
+41555.8423;Trial;134;StateChange;Finished
+41557.3436;Trial;135;StateChange;Running
+41557.3437;Trial;135;StateChange;Prepared
+41560.8012;Trial;135;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-9.340847,"y":0.03,"z":0.08599865}}}
+41561.3823;Trial;135;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-9.340847,"y":0.03,"z":0.08599865},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":135, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":3}}
+41562.8845;Trial;135;StateChange;Finished
+41564.4138;Trial;136;StateChange;Running
+41564.4139;Trial;136;StateChange;Prepared
+41567.2448;Trial;136;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-19.63627,"y":0.03,"z":-0.1087346}}}
+41567.6182;Trial;136;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-19.63627,"y":0.03,"z":-0.1087346},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":136, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":8}}
+41569.1617;Trial;136;StateChange;Finished
+41570.7040;Trial;137;StateChange;Running
+41570.7042;Trial;137;StateChange;Prepared
+41572.4955;Trial;137;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.412911,"y":0.03,"z":0.006390437}}}
+41572.7020;Trial;137;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.412911,"y":0.03,"z":0.006390437},"correctPosition":{"x":-5,"y":0,"z":0},"trialIndex":137, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":1}}
+41574.2457;Trial;137;StateChange;Finished
+41575.7887;Trial;138;StateChange;Running
+41575.7888;Trial;138;StateChange;Prepared
+41579.3721;Trial;138;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.426959,"y":0.03,"z":0.0255164}}}
+41579.7435;Trial;138;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.426959,"y":0.03,"z":0.0255164},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":138, "trialSound":"auto_klakson_1","trialPosition":0}}
+41581.2455;Trial;138;StateChange;Finished
+41582.7891;Trial;139;StateChange;Running
+41582.7892;Trial;139;StateChange;Prepared
+41585.9538;Trial;139;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-17.45756,"y":0.03,"z":-0.02959055}}}
+41586.2849;Trial;139;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-17.45756,"y":0.03,"z":-0.02959055},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":139, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":8}}
+41587.8283;Trial;139;StateChange;Finished
+41589.3302;Trial;140;StateChange;Running
+41589.3303;Trial;140;StateChange;Prepared
+41591.0373;Trial;140;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-9.810083,"y":0.03,"z":0.1488312}}}
+41591.6184;Trial;140;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-9.810083,"y":0.03,"z":0.1488312},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":140, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":6}}
+41593.1205;Trial;140;StateChange;Finished
+41594.6232;Trial;141;StateChange;Running
+41594.6233;Trial;141;StateChange;Prepared
+41603.1201;Trial;141;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.02471,"y":0.03,"z":0.07058263}}}
+41603.4934;Trial;141;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.02471,"y":0.03,"z":0.07058263},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":141, "trialSound":"auto_klakson_1","trialPosition":3}}
+41604.9959;Trial;141;StateChange;Finished
+41606.5384;Trial;142;StateChange;Running
+41606.5385;Trial;142;StateChange;Prepared
+41613.9543;Trial;142;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-11.70424,"y":0.03,"z":0.02911551}}}
+41614.4101;Trial;142;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-11.70424,"y":0.03,"z":0.02911551},"correctPosition":{"x":-17,"y":0,"z":0},"trialIndex":142, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":5}}
+41615.9125;Trial;142;StateChange;Finished
+41617.4552;Trial;143;StateChange;Running
+41617.4553;Trial;143;StateChange;Prepared
+41620.3286;Trial;143;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.595724,"y":0.03,"z":0.04006042}}}
+41620.6183;Trial;143;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.595724,"y":0.03,"z":0.04006042},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":143, "trialSound":"cikada_1","trialPosition":3}}
+41622.1207;Trial;143;StateChange;Finished
+41623.6225;Trial;144;StateChange;Running
+41623.6226;Trial;144;StateChange;Prepared
+41628.8703;Trial;144;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.175329,"y":0.03,"z":0.01581859}}}
+41629.2434;Trial;144;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.175329,"y":0.03,"z":0.01581859},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":144, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":4}}
+41630.7863;Trial;144;StateChange;Finished
+41632.2885;Trial;145;StateChange;Running
+41632.2886;Trial;145;StateChange;Prepared
+41635.5788;Trial;145;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.485471,"y":0.03,"z":0.02370708}}}
+41635.9516;Trial;145;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.485471,"y":0.03,"z":0.02370708},"correctPosition":{"x":-11,"y":0,"z":0},"trialIndex":145, "trialSound":"cikada_1","trialPosition":3}}
+41637.4540;Trial;145;StateChange;Finished
+41638.9560;Trial;146;StateChange;Running
+41638.9560;Trial;146;StateChange;Prepared
+41640.8700;Trial;146;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.91377,"y":0.03,"z":0.06803011}}}
+41641.2437;Trial;146;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.91377,"y":0.03,"z":0.06803011},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":146, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":2}}
+41642.7614;Trial;146;StateChange;Finished
+41644.3029;Trial;147;StateChange;Running
+41644.3033;Trial;147;StateChange;Prepared
+41646.9251;Trial;147;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-12.04383,"y":0.03,"z":-0.005912913}}}
+41647.2564;Trial;147;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-12.04383,"y":0.03,"z":-0.005912913},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":147, "trialSound":"cikada_1","trialPosition":6}}
+41648.7587;Trial;147;StateChange;Finished
+41650.3016;Trial;148;StateChange;Running
+41650.3017;Trial;148;StateChange;Prepared
+41652.8001;Trial;148;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-10.89357,"y":0.03,"z":0.04213944}}}
+41653.3400;Trial;148;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-10.89357,"y":0.03,"z":0.04213944},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":148, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":6}}
+41654.8840;Trial;148;StateChange;Finished
+41656.3861;Trial;149;StateChange;Running
+41656.3862;Trial;149;StateChange;Prepared
+41659.7175;Trial;149;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-20.62761,"y":0.03,"z":-0.06271362}}}
+41660.2571;Trial;149;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-20.62761,"y":0.03,"z":-0.06271362},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":149, "trialSound":"auto_klakson_1","trialPosition":8}}
+41661.8008;Trial;149;StateChange;Finished
+41663.3439;Trial;150;StateChange;Running
+41663.3440;Trial;150;StateChange;Prepared
+41666.1339;Trial;150;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-6.268084,"y":0.03,"z":0.06752212}}}
+41666.3821;Trial;150;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-6.268084,"y":0.03,"z":0.06752212},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":150, "trialSound":"auto_klakson_1","trialPosition":2}}
+41667.8841;Trial;150;StateChange;Finished
+41669.3860;Trial;151;StateChange;Running
+41669.3860;Trial;151;StateChange;Prepared
+41674.0502;Trial;151;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.889613,"y":0.03,"z":0.004967308}}}
+41674.3814;Trial;151;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.889613,"y":0.03,"z":0.004967308},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":151, "trialSound":"cikada_1","trialPosition":2}}
+41675.8847;Trial;151;StateChange;Finished
+41677.3860;Trial;152;StateChange;Running
+41677.3861;Trial;152;StateChange;Prepared
+41680.6754;Trial;152;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-13.3217,"y":0.03,"z":-0.05869976}}}
+41681.0069;Trial;152;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-13.3217,"y":0.03,"z":-0.05869976},"correctPosition":{"x":-23,"y":0,"z":0},"trialIndex":152, "trialSound":"kocka_intenzivnejsi_mnoukani_1","trialPosition":7}}
+41682.5093;Trial;152;StateChange;Finished
+41684.0527;Trial;153;StateChange;Running
+41684.0528;Trial;153;StateChange;Prepared
+41688.7595;Trial;153;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.568799,"y":0.03,"z":0.03564293}}}
+41689.1314;Trial;153;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.568799,"y":0.03,"z":0.03564293},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":153, "trialSound":"prasknuti_dverma_2","trialPosition":2}}
+41690.6347;Trial;153;StateChange;Finished
+41692.1364;Trial;154;StateChange;Running
+41692.1365;Trial;154;StateChange;Prepared
+41695.8840;Trial;154;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-15.53115,"y":0.03,"z":-0.04623367}}}
+41696.4653;Trial;154;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-15.53115,"y":0.03,"z":-0.04623367},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":154, "trialSound":"prasknuti_dverma_2","trialPosition":8}}
+41696.4656;Trial;154;StateChange;Finished
+41697.9690;Trial;155;StateChange;Running
+41697.9691;Trial;155;StateChange;Prepared
+41703.8843;Trial;155;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-19.89138,"y":0.03,"z":-0.0151127}}}
+41704.2575;Trial;155;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-19.89138,"y":0.03,"z":-0.0151127},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":155, "trialSound":"prasknuti_dverma_2","trialPosition":6}}
+41704.2578;Trial;155;StateChange;Finished
+41705.8045;Trial;156;StateChange;Running
+41705.8046;Trial;156;StateChange;Prepared
+41709.1345;Trial;156;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-10.10913,"y":0.03,"z":0.1069845}}}
+41709.7988;Trial;156;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-10.10913,"y":0.03,"z":0.1069845},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":156, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":6}}
+41709.7992;Trial;156;StateChange;Finished
+41711.3024;Trial;157;StateChange;Running
+41711.3025;Trial;157;StateChange;Prepared
+41714.0093;Trial;157;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.608362,"y":0.03,"z":0.03402466}}}
+41714.2157;Trial;157;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.608362,"y":0.03,"z":0.03402466},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":157, "trialSound":"rozbiti_skla_2","trialPosition":0}}
+41714.2161;Trial;157;StateChange;Finished
+41715.7602;Trial;158;StateChange;Running
+41715.7603;Trial;158;StateChange;Prepared
+41721.5097;Trial;158;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-16.08289,"y":0.03,"z":0.08674458}}}
+41721.9656;Trial;158;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-16.08289,"y":0.03,"z":0.08674458},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":158, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":8}}
+41721.9660;Trial;158;StateChange;Finished
+41723.5110;Trial;159;StateChange;Running
+41723.5112;Trial;159;StateChange;Prepared
+41725.7178;Trial;159;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.650751,"y":0.03,"z":0.06082888}}}
+41726.0906;Trial;159;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.650751,"y":0.03,"z":0.06082888},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":159, "trialSound":"rozbiti_skla_2","trialPosition":4}}
+41726.0909;Trial;159;StateChange;Finished
+41727.6361;Trial;160;StateChange;Running
+41727.6361;Trial;160;StateChange;Prepared
+41729.7179;Trial;160;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.766549,"y":0.03,"z":0.1304033}}}
+41730.0072;Trial;160;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.766549,"y":0.03,"z":0.1304033},"correctPosition":{"x":-20,"y":0,"z":0},"trialIndex":160, "trialSound":"rozbiti_skla_2","trialPosition":6}}
+41730.0076;Trial;160;StateChange;Finished
+41731.5525;Trial;161;StateChange;Running
+41731.5526;Trial;161;StateChange;Prepared
+41734.0514;Trial;161;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-2.556663,"y":0.03,"z":0.06228903}}}
+41734.3405;Trial;161;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-2.556663,"y":0.03,"z":0.06228903},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":161, "trialSound":"prasknuti_dverma_2","trialPosition":0}}
+41734.3409;Trial;161;StateChange;Finished
+41735.8864;Trial;162;StateChange;Running
+41735.8865;Trial;162;StateChange;Prepared
+41738.8428;Trial;162;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.134639,"y":0.03,"z":0.002569467}}}
+41739.3824;Trial;162;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.134639,"y":0.03,"z":0.002569467},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":162, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":4}}
+41739.3827;Trial;162;StateChange;Finished
+41740.8874;Trial;163;StateChange;Running
+41740.8874;Trial;163;StateChange;Prepared
+41743.2592;Trial;163;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-23.86158,"y":0.03,"z":0.02567299}}}
+41743.5491;Trial;163;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-23.86158,"y":0.03,"z":0.02567299},"correctPosition":{"x":-26,"y":0,"z":0},"trialIndex":163, "trialSound":"rozbiti_skla_2","trialPosition":8}}
+41743.5495;Trial;163;StateChange;Finished
+41745.0530;Trial;164;StateChange;Running
+41745.0531;Trial;164;StateChange;Prepared
+41748.1761;Trial;164;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.586292,"y":0.03,"z":0.0420781}}}
+41748.3826;Trial;164;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.586292,"y":0.03,"z":0.0420781},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":164, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":2}}
+41748.3829;Trial;164;StateChange;Finished
+41749.9276;Trial;165;StateChange;Running
+41749.9277;Trial;165;StateChange;Prepared
+41755.1350;Trial;165;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-5.541587,"y":0.03,"z":0.04059453}}}
+41755.5493;Trial;165;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-5.541587,"y":0.03,"z":0.04059453},"correctPosition":{"x":-14,"y":0,"z":0},"trialIndex":165, "trialSound":"prasknuti_dverma_2","trialPosition":4}}
+41755.5496;Trial;165;StateChange;Finished
+41757.0941;Trial;166;StateChange;Running
+41757.0942;Trial;166;StateChange;Prepared
+41759.7594;Trial;166;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-4.522937,"y":0.03,"z":0.116086}}}
+41760.0072;Trial;166;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-4.522937,"y":0.03,"z":0.116086},"correctPosition":{"x":-8,"y":0,"z":0},"trialIndex":166, "trialSound":"rozbiti_skla_2","trialPosition":2}}
+41760.0076;Trial;166;StateChange;Finished
+41761.5122;Trial;167;StateChange;Running
+41761.5123;Trial;167;StateChange;Prepared
+41764.0095;Trial;167;Event;{"Event":"PositionSelected","Payload":{"selectedPosition":{"x":-3.018993,"y":0.03,"z":0.09362268}}}
+41764.2156;Trial;167;Event;{"Event":"PositionConfirmed","Payload":{"selectedPosition":{"x":-3.018993,"y":0.03,"z":0.09362268},"correctPosition":{"x":-2,"y":0,"z":0},"trialIndex":167, "trialSound":"bouchani_zeleza_silna_intenzita","trialPosition":0}}
+41764.2159;Trial;167;StateChange;Finished
+41764.2166;Experiment;0;StateChange;Finished

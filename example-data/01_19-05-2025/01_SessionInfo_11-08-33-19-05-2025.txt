@@ -1,0 +1,17 @@
+***SESSION HEADER***
+{
+  "Participant": "01",
+  "Timestamp": "11-08-33-19-05-2025"
+}
+---SESSION HEADER---
+***SESSION INFO***
+{
+  "ProductName": "SDE",
+  "Version": "0.1",
+  "UnityVersion": "2022.3.60f1",
+  "BuildGUID": "b3ca09f63d6749f2b9dffd8b59dc5a2f",
+  "Platform": "Android",
+  "name": "Setup Info",
+  "hideFlags": 0
+}
+---SESSION INFO---
