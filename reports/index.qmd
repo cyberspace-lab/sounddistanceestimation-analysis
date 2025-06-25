@@ -28,10 +28,6 @@ df_sde <- read_sheet(sheet_id)
 View(head(df_sde))
 ```
 
-```{r}
-
-```
-
 ## Graphs
 ```{r data_summary}
 df_sde %>%
@@ -67,8 +63,6 @@ ggplot(aes(x = as.factor(Payload.trialPosition * 3 +2), y = `Error-na`, color = 
     theme(legend.position = "bottom")
 ```
 
-
-
 ```{r absolute error}
 df_sde %>%
     mutate(half = as.factor(half)) %>%
@@ -89,4 +83,20 @@ ggplot(aes(x = as.factor(Payload.trialPosition * 3 +2), y = `Error-na`, color = 
 ```
 
 ```{r}
+df_sde %>%
+    mutate(half = as.factor(half),
+            halfFunction = paste0(half, "_", Function)) %>%
+ggplot(aes(x = Payload.trialIndex, y = `Error-na`, color = Function, group = halfFunction)) +
+    geom_point() +
+    geom_smooth() +
+    geom_vline(xintercept = c(15,69,84,99,153))
+    guides(color = "none") + 
+    labs(title = "Sound distance estimation absolute error by sound source distance and attenuation function",
+         x = "Sound Distance",
+         y = "Absolute error (m)",
+         color = "Attenuation function",
+         fill = "Attenuation function") +
+    theme_minimal(base_size = 20) +
+    theme(legend.position = "bottom") +
+    facet_wrap(~ Function, nrow = 2)
 ```

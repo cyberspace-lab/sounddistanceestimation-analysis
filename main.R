@@ -4,15 +4,15 @@ library(stringr)
 
 exp <- load_experiment("example-data/01_19-05-2025")
 exp <- load_experiment("data/01_19-05-2025")
+
 dirs <- list.dirs("data/", full.names = TRUE, recursive = FALSE)
-str(exp$data$experiment_log)
 View(exp$data$experiment_log$data)
 
-extract_trial_data <- function(data){
+extract_trial_data <- function(data) {
   out <- data %>%
     filter(Sender == "Trial",
-          Type == "Event",
-          grepl("PositionConfirmed", Event)) %>%
+           Type == "Event",
+           grepl("PositionConfirmed", Event)) %>%
     pull(Event) %>%
     lapply(., function(x) {
       parsed <- unlist(jsonlite::fromJSON(x))
