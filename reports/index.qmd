@@ -34,8 +34,9 @@ View(head(df_sde))
 
 ## Graphs
 ```{r data_summary}
-str(df_sde)
-ggplot(df_sde, aes(x = as.factor(Payload.trialPosition * 3 +2), y = Error, color = Function, fill = Function)) +
+df_sde %>%
+    filter(Feedback == 1) %>%
+ggplot(aes(x = as.factor(Payload.trialPosition * 3 +2), y = Error, color = Function, fill = Function)) +
   geom_boxplot(alpha = 0.3) + 
     geom_jitter(position = position_jitterdodge(jitter.width = 0.1, dodge.width = 0.75), 
     alpha = 0.5) +
@@ -50,7 +51,9 @@ ggplot(df_sde, aes(x = as.factor(Payload.trialPosition * 3 +2), y = Error, color
 ```
 
 ```{r absolute error}
-ggplot(df_sde, aes(x = as.factor(Payload.trialPosition * 3 +2), y = `Error-na`, color = Function, fill = Function)) +
+df_sde %>%
+    filter(Feedback == 1) %>%
+ggplot(aes(x = as.factor(Payload.trialPosition * 3 +2), y = `Error-na`, color = Function, fill = Function)) +
   geom_boxplot(alpha = 0.3) + 
     geom_jitter(position = position_jitterdodge(jitter.width = 0.1, dodge.width = 0.75), 
     alpha = 0.5) +
@@ -65,4 +68,25 @@ ggplot(df_sde, aes(x = as.factor(Payload.trialPosition * 3 +2), y = `Error-na`, 
 ```
 
 
+
+```{r absolute error}
+df_sde %>%
+    mutate(half = as.factor(half)) %>%
+    filter(Feedback == 1) %>%
+ggplot(aes(x = as.factor(Payload.trialPosition * 3 +2), y = `Error-na`, color = half, fill = half)) +
+  geom_boxplot(alpha = 0.3) + 
+    geom_jitter(position = position_jitterdodge(jitter.width = 0.1, dodge.width = 0.75), 
+    alpha = 0.5) +
+    guides(color = "none") + 
+    labs(title = "Sound distance estimation absolute error by sound source distance and attenuation function",
+         x = "Sound Distance",
+         y = "Absolute error (m)",
+         color = "Attenuation function",
+         fill = "Attenuation function") +
+    theme_minimal(base_size = 20) +
+    theme(legend.position = "bottom") +
+    facet_wrap(~ Function, nrow = 2)
+```
+
+```{r}
 ```
