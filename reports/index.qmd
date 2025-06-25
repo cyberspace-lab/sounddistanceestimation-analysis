@@ -1,0 +1,68 @@
+---
+title: "Sound Distance Estimation Analysis - All Trials"
+author: "Your Name"
+date: "`r Sys.Date()`"
+format:
+    html:
+        toc: true
+        toc-depth: 3
+        code-fold: true
+        theme: cosmo
+execute:
+    warning: false
+    message: false
+---
+
+# Sound Distance Estimation Analysis
+
+This document presents a comprehensive analysis of all trial data from the sound distance estimation experiment.
+
+## Setup and Data Loading
+
+```{r setup, include=FALSE}
+library(ggplot2)
+library(dplyr)
+library(googlesheets4)
+sheet_id <- "1i74LyIYPZiIpkkawoOggmD1R8OEic7lT8r7BUI_eW_w"
+df_sde <- read_sheet(sheet_id)
+View(head(df_sde))
+```
+
+```{r}
+
+```
+
+## Graphs
+```{r data_summary}
+str(df_sde)
+ggplot(df_sde, aes(x = as.factor(Payload.trialPosition * 3 +2), y = Error, color = Function, fill = Function)) +
+  geom_boxplot(alpha = 0.3) + 
+    geom_jitter(position = position_jitterdodge(jitter.width = 0.1, dodge.width = 0.75), 
+    alpha = 0.5) +
+    guides(color = "none") + 
+    labs(title = "Sound distance estimation error by sound source distance and attenuation function",
+         x = "Sound Distance",
+         y = "Error (m)",
+         color = "Attenuation function",
+         fill = "Attenuation function") +
+    theme_minimal(base_size = 20) +
+    theme(legend.position = "bottom")
+```
+
+```{r absolute error}
+ggplot(df_sde, aes(x = as.factor(Payload.trialPosition * 3 +2), y = `Error-na`, color = Function, fill = Function)) +
+  geom_boxplot(alpha = 0.3) + 
+    geom_jitter(position = position_jitterdodge(jitter.width = 0.1, dodge.width = 0.75), 
+    alpha = 0.5) +
+    guides(color = "none") + 
+    labs(title = "Sound distance estimation absolute error by sound source distance and attenuation function",
+         x = "Sound Distance",
+         y = "Absolute error (m)",
+         color = "Attenuation function",
+         fill = "Attenuation function") +
+    theme_minimal(base_size = 20) +
+    theme(legend.position = "bottom")
+```
+
+
+```
